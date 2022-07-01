@@ -28,9 +28,9 @@ def times_sleep(MinS, MaxS):                             # 随机时长暂停函
     time.sleep(SleepTime)
 
 
-game = input("game:\n")                                                 # 选择需要爬取的市场
-if game == "":
-    game = "csgo"
+#game = input("game:\n")                                                 # 选择需要爬取的市场
+#if game == "":
+game = "csgo"
 
 # 反反爬虫
 MinSleepTime = int(input("MinSleepTime（大于4以免反爬虫）:\n"))             # 两次爬取间的最小间隔时间
