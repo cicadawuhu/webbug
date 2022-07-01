@@ -1,0 +1,497 @@
+{
+    "音乐盒 | AWOLNATION - 就是我":{
+        "buff":35707,
+        "igxe":554117,
+        "max":166902932
+    },
+    "音乐盒 | Amon Tobin - 尘归尘":{
+        "buff":780680,
+        "igxe":656553,
+        "max":174611181
+    },
+    "音乐盒 | Austin Wintory - 咖啡拉花":{
+        "buff":867533,
+        "igxe":663385,
+        "max":271556665
+    },
+    "音乐盒 | Austin Wintory - 巴克拉姆":{
+        "buff":779495,
+        "igxe":655588,
+        "max":172462748
+    },
+    "音乐盒 | Austin Wintory - 沙漠之焰":{
+        "buff":35708,
+        "igxe":554247,
+        "max":167665763
+    },
+    "音乐盒 | Beartooth - 令人发指":{
+        "buff":35709,
+        "igxe":554326,
+        "max":166079741
+    },
+    "音乐盒 | Chipzel - 黄色魔法":{
+        "buff":867530,
+        "igxe":663389,
+        "max":271584415
+    },
+    "音乐盒 | Damjan Mravunac - 塔罗斯的法则":{
+        "buff":35710,
+        "igxe":517328,
+        "max":165156418
+    },
+    "音乐盒 | Daniel Sadowski - 8 位音乐盒":{
+        "buff":35712,
+        "igxe":554233,
+        "max":167816303
+    },
+    "音乐盒 | Daniel Sadowski - 巨龙之眼":{
+        "buff":0,
+        "igxe":655589,
+        "max":167595476
+    },
+    "音乐盒 | Daniel Sadowski - 深红突击":{
+        "buff":35711,
+        "igxe":554103,
+        "max":158592452
+    },
+    "音乐盒 | Daniel Sadowski - 绝对统御":{
+        "buff":35713,
+        "igxe":554249,
+        "max":167053406
+    },
+    "音乐盒 | Darude - CSGO 精彩时刻":{
+        "buff":35714,
+        "igxe":554166,
+        "max":169311413
+    },
+    "音乐盒 | Dren - 枪炮卷饼卡车":{
+        "buff":779484,
+        "igxe":655583,
+        "max":145320019
+    },
+    "音乐盒 | Feed Me - 如日中天":{
+        "buff":35716,
+        "igxe":554225,
+        "max":169471940
+    },
+    "音乐盒 | Freaky DNA - 征服":{
+        "buff":867532,
+        "igxe":663394,
+        "max":271493927
+    },
+    "音乐盒 | Ian Hultquist - 雄狮之口":{
+        "buff":35717,
+        "igxe":554334,
+        "max":168006883
+    },
+    "音乐盒 | Jesse Harlin - 战火星空":{
+        "buff":867534,
+        "igxe":663392,
+        "max":271576586
+    },
+    "音乐盒 | Kelly Bailey - 有害物质环境":{
+        "buff":35718,
+        "igxe":554464,
+        "max":167876482
+    },
+    "音乐盒 | Laura Shigihara - 好好干，好好活":{
+        "buff":867531,
+        "igxe":663391,
+        "max":271563795
+    },
+    "音乐盒 | Lennie Moore - 爪哇哈瓦那放克乐":{
+        "buff":35720,
+        "igxe":554227,
+        "max":164765090
+    },
+    "音乐盒 | Mateo Messina - 无人之境":{
+        "buff":35721,
+        "igxe":554293,
+        "max":168428310
+    },
+    "音乐盒 | Matt Lange - 同型节奏":{
+        "buff":35722,
+        "igxe":554248,
+        "max":167605507
+    },
+    "音乐盒 | Matt Levine - 漂泊者":{
+        "buff":779492,
+        "igxe":655584,
+        "max":179652140
+    },
+    "音乐盒 | Michael Bross - 大举入侵！":{
+        "buff":35723,
+        "igxe":554376,
+        "max":166401197
+    },
+    "音乐盒 | Midnight Riders - 圣诞之欲":{
+        "buff":35724,
+        "igxe":554201,
+        "max":169411751
+    },
+    "音乐盒 | Mord Fustang - 永恒之钻":{
+        "buff":35725,
+        "igxe":517325,
+        "max":169381642
+    },
+    "音乐盒 | Neck Deep - 躺平青年":{
+        "buff":853156,
+        "igxe":0,
+        "max":171659520
+    },
+    "音乐盒 | New Beat Fund - 海绵手指":{
+        "buff":35726,
+        "igxe":554207,
+        "max":166441321
+    },
+    "音乐盒 | Noisia - 尖峰时刻":{
+        "buff":35727,
+        "igxe":517322,
+        "max":166662045
+    },
+    "音乐盒 | Proxy - 万夫莫敌包":{
+        "buff":35728,
+        "igxe":554468,
+        "max":166953080
+    },
+    "音乐盒 | Robert Allaire - 叛乱":{
+        "buff":35729,
+        "igxe":660547,
+        "max":166431291
+    },
+    "音乐盒 | Sam Marshall - 大胆尝试":{
+        "buff":0,
+        "igxe":655582,
+        "max":176037652
+    },
+    "音乐盒 | Sarah Schachner - 蜂鸟":{
+        "buff":867529,
+        "igxe":663396,
+        "max":271549286
+    },
+    "音乐盒 | Sasha - 地球末夜":{
+        "buff":35730,
+        "igxe":554305,
+        "max":167434881
+    },
+    "音乐盒 | Scarlxrd - 电锯·追命":{
+        "buff":853090,
+        "igxe":661157,
+        "max":177564067
+    },
+    "音乐盒 | Scarlxrd: 疤王":{
+        "buff":777411,
+        "igxe":652764,
+        "max":174390511
+    },
+    "音乐盒 | Sean Murray - A*D*8":{
+        "buff":35731,
+        "igxe":660644,
+        "max":170886800
+    },
+    "音乐盒 | Skog - II-爆头":{
+        "buff":35732,
+        "igxe":660717,
+        "max":168709287
+    },
+    "音乐盒 | Skog - 金属":{
+        "buff":35733,
+        "igxe":554303,
+        "max":166411228
+    },
+    "音乐盒 | The Verkkars & n0thing - 闪光舞":{
+        "buff":0,
+        "igxe":665838,
+        "max":287217703
+    },
+    "音乐盒 | The Verkkars - EZ4ENCE":{
+        "buff":769774,
+        "igxe":626496,
+        "max":167204104
+    },
+    "音乐盒 | Tim Huling - 新黑色电影":{
+        "buff":779485,
+        "igxe":655591,
+        "max":185734980
+    },
+    "音乐盒 | Tree Adams 和 Ben Bromfield - M.U.D.D. 军团":{
+        "buff":0,
+        "igxe":655590,
+        "max":184811446
+    },
+    "音乐盒 | Troels Folmann - 超爆话筒":{
+        "buff":35734,
+        "igxe":554546,
+        "max":167585444
+    },
+    "音乐盒 | bbno$ - 你急了！":{
+        "buff":873651,
+        "igxe":664845,
+        "max":280852297
+    },
+    "音乐盒 | 多名作曲家 - 迈阿密热线":{
+        "buff":35735,
+        "igxe":554121,
+        "max":166200165
+    },
+    "音乐盒（StatTrak™） | AWOLNATION - 就是我":{
+        "buff":39082,
+        "igxe":554118,
+        "max":158933684
+    },
+    "音乐盒（StatTrak™） | Amon Tobin - 尘归尘":{
+        "buff":780681,
+        "igxe":656554,
+        "max":168368132
+    },
+    "音乐盒（StatTrak™） | Austin Wintory - 咖啡拉花":{
+        "buff":867526,
+        "igxe":663393,
+        "max":271482095
+    },
+    "音乐盒（StatTrak™） | Austin Wintory - 巴克拉姆":{
+        "buff":779518,
+        "igxe":655578,
+        "max":162034483
+    },
+    "音乐盒（StatTrak™） | Austin Wintory - 沙漠之焰":{
+        "buff":39083,
+        "igxe":554472,
+        "max":158281378
+    },
+    "音乐盒（StatTrak™） | Beartooth - 令人发指":{
+        "buff":39085,
+        "igxe":554157,
+        "max":155689581
+    },
+    "音乐盒（StatTrak™） | Beartooth - 咄咄逼人":{
+        "buff":39084,
+        "igxe":565445,
+        "max":179892969
+    },
+    "音乐盒（StatTrak™） | Blitz Kids - 有为青年":{
+        "buff":39086,
+        "igxe":660567,
+        "max":141576234
+    },
+    "音乐盒（StatTrak™） | Chipzel - 黄色魔法":{
+        "buff":867527,
+        "igxe":663390,
+        "max":271517678
+    },
+    "音乐盒（StatTrak™） | Daniel Sadowski - 8 位音乐盒":{
+        "buff":39089,
+        "igxe":554261,
+        "max":159175095
+    },
+    "音乐盒（StatTrak™） | Daniel Sadowski - 巨龙之眼":{
+        "buff":779490,
+        "igxe":655586,
+        "max":159827042
+    },
+    "音乐盒（StatTrak™） | Daniel Sadowski - 深红突击":{
+        "buff":39088,
+        "igxe":554413,
+        "max":156371902
+    },
+    "音乐盒（StatTrak™） | Daniel Sadowski - 绝对统御":{
+        "buff":39090,
+        "igxe":554208,
+        "max":157287955
+    },
+    "音乐盒（StatTrak™） | Darude - CSGO 精彩时刻":{
+        "buff":39091,
+        "igxe":554140,
+        "max":158441908
+    },
+    "音乐盒（StatTrak™） | Dren - 枪炮卷饼卡车":{
+        "buff":779486,
+        "igxe":655580,
+        "max":139970332
+    },
+    "音乐盒（StatTrak™） | Feed Me - 如日中天":{
+        "buff":39093,
+        "igxe":554244,
+        "max":157187642
+    },
+    "音乐盒（StatTrak™） | Freaky DNA - 征服":{
+        "buff":867524,
+        "igxe":663397,
+        "max":271476359
+    },
+    "音乐盒（StatTrak™） | Hundredth - 冲破藩篱":{
+        "buff":39094,
+        "igxe":565414,
+        "max":180776148
+    },
+    "音乐盒（StatTrak™） | Ian Hultquist - 雄狮之口":{
+        "buff":39095,
+        "igxe":554335,
+        "max":158301447
+    },
+    "音乐盒（StatTrak™） | Jesse Harlin - 战火星空":{
+        "buff":867525,
+        "igxe":663386,
+        "max":271527991
+    },
+    "音乐盒（StatTrak™） | Kelly Bailey - 有害物质环境":{
+        "buff":39096,
+        "igxe":554236,
+        "max":159034072
+    },
+    "音乐盒（StatTrak™） | Ki:Theory - 莫洛托夫烈火":{
+        "buff":39097,
+        "igxe":554168,
+        "max":158200976
+    },
+    "音乐盒（StatTrak™） | Laura Shigihara - 好好干，好好活":{
+        "buff":867523,
+        "igxe":663395,
+        "max":271506722
+    },
+    "音乐盒（StatTrak™） | Lennie Moore - 爪哇哈瓦那放克乐":{
+        "buff":39098,
+        "igxe":554263,
+        "max":156442312
+    },
+    "音乐盒（StatTrak™） | Mateo Messina - 无人之境":{
+        "buff":39099,
+        "igxe":554560,
+        "max":160509361
+    },
+    "音乐盒（StatTrak™） | Matt Lange - 同型节奏":{
+        "buff":39100,
+        "igxe":554237,
+        "max":154355109
+    },
+    "音乐盒（StatTrak™） | Matt Levine - 漂泊者":{
+        "buff":779491,
+        "igxe":655585,
+        "max":170876766
+    },
+    "音乐盒（StatTrak™） | Michael Bross - 大举入侵！":{
+        "buff":39101,
+        "igxe":554250,
+        "max":157297985
+    },
+    "音乐盒（StatTrak™） | Midnight Riders - 圣诞之欲":{
+        "buff":39102,
+        "igxe":567363,
+        "max":160479266
+    },
+    "音乐盒（StatTrak™） | Mord Fustang - 永恒之钻":{
+        "buff":39103,
+        "igxe":554068,
+        "max":159165020
+    },
+    "音乐盒（StatTrak™） | Neck Deep - 人生何处不青山":{
+        "buff":39104,
+        "igxe":565406,
+        "max":145018660
+    },
+    "音乐盒（StatTrak™） | Neck Deep - 躺平青年":{
+        "buff":853088,
+        "igxe":0,
+        "max":160830449
+    },
+    "音乐盒（StatTrak™） | New Beat Fund - 海绵手指":{
+        "buff":39105,
+        "igxe":554238,
+        "max":157227773
+    },
+    "音乐盒（StatTrak™） | Noisia - 尖峰时刻":{
+        "buff":39106,
+        "igxe":554234,
+        "max":158973839
+    },
+    "音乐盒（StatTrak™） | Proxy - 万夫莫敌包":{
+        "buff":39107,
+        "igxe":554327,
+        "max":158662709
+    },
+    "音乐盒（StatTrak™） | Roam - 决心":{
+        "buff":39108,
+        "igxe":565498,
+        "max":167404778
+    },
+    "音乐盒（StatTrak™） | Robert Allaire - 叛乱":{
+        "buff":39109,
+        "igxe":660672,
+        "max":158050505
+    },
+    "音乐盒（StatTrak™） | Sam Marshall - 大胆尝试":{
+        "buff":779489,
+        "igxe":655581,
+        "max":168960238
+    },
+    "音乐盒（StatTrak™） | Sarah Schachner - 蜂鸟":{
+        "buff":867528,
+        "igxe":663387,
+        "max":271538101
+    },
+    "音乐盒（StatTrak™） | Scarlxrd - 电锯·追命":{
+        "buff":853177,
+        "igxe":661164,
+        "max":166260357
+    },
+    "音乐盒（StatTrak™） | Scarlxrd: 疤王":{
+        "buff":777410,
+        "igxe":652765,
+        "max":161362223
+    },
+    "音乐盒（StatTrak™） | Sean Murray - A*D*8":{
+        "buff":39111,
+        "igxe":660665,
+        "max":160699947
+    },
+    "音乐盒（StatTrak™） | Skog - III-竞技场":{
+        "buff":39113,
+        "igxe":565470,
+        "max":175444582
+    },
+    "音乐盒（StatTrak™） | Skog - 金属":{
+        "buff":0,
+        "igxe":554346,
+        "max":154415305
+    },
+    "音乐盒（StatTrak™） | The Verkkars & n0thing - 闪光舞":{
+        "buff":0,
+        "igxe":665852,
+        "max":287207489
+    },
+    "音乐盒（StatTrak™） | The Verkkars - EZ4ENCE":{
+        "buff":769773,
+        "igxe":626499,
+        "max":156726001
+    },
+    "音乐盒（StatTrak™） | Tim Huling - 新黑色电影":{
+        "buff":779487,
+        "igxe":655579,
+        "max":242725935
+    },
+    "音乐盒（StatTrak™） | Tree Adams 和 Ben Bromfield - M.U.D.D. 军团":{
+        "buff":0,
+        "igxe":655587,
+        "max":180475117
+    },
+    "音乐盒（StatTrak™） | Troels Folmann - 超爆话筒":{
+        "buff":39115,
+        "igxe":517321,
+        "max":159084641
+    },
+    "音乐盒（StatTrak™） | Twin Atlantic - GLA":{
+        "buff":39116,
+        "igxe":565417,
+        "max":173206044
+    },
+    "音乐盒（StatTrak™） | bbno$ - 你急了！":{
+        "buff":873650,
+        "igxe":664846,
+        "max":280842657
+    },
+    "音乐盒（StatTrak™） | 多名作曲家 - 迈阿密热线":{
+        "buff":39117,
+        "igxe":554239,
+        "max":156836422
+    }
+}
